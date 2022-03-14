@@ -331,9 +331,17 @@ h1 {
   font-family: 'Supermercado One', Arial, cursive;
 }
 
-a, b {
+a {
   text-align: center;
   font-size: 26px;
+  color: darkred;
+  text-decoration: none;
+  font-family: 'Supermercado', Arial, cursive;
+}
+
+b {
+  text-align: center;
+  font-size: 18px;
   color: darkred;
   text-decoration: none;
   font-family: 'Supermercado', Arial, cursive;
